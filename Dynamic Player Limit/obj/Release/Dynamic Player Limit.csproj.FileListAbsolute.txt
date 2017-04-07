@@ -1,0 +1,4 @@
+C:\Users\Kr4ken\documents\visual studio 2017\Projects\Dynamic Player Count\Dynamic Player Count\bin\Release\Dynamic Player Limit.dll
+C:\Users\Kr4ken\documents\visual studio 2017\Projects\Dynamic Player Count\Dynamic Player Count\bin\Release\Dynamic Player Limit.pdb
+C:\Users\Kr4ken\documents\visual studio 2017\Projects\Dynamic Player Count\Dynamic Player Count\obj\Release\Dynamic Player Limit.dll
+C:\Users\Kr4ken\documents\visual studio 2017\Projects\Dynamic Player Count\Dynamic Player Count\obj\Release\Dynamic Player Limit.pdb

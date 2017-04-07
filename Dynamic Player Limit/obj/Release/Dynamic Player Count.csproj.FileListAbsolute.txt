@@ -1,0 +1,5 @@
+C:\Users\Kr4ken\documents\visual studio 2017\Projects\Dynamic Player Count\Dynamic Player Count\bin\Release\Dynamic Player Count.dll
+C:\Users\Kr4ken\documents\visual studio 2017\Projects\Dynamic Player Count\Dynamic Player Count\bin\Release\Dynamic Player Count.pdb
+C:\Users\Kr4ken\documents\visual studio 2017\Projects\Dynamic Player Count\Dynamic Player Count\obj\Release\Dynamic Player Count.csprojResolveAssemblyReference.cache
+C:\Users\Kr4ken\documents\visual studio 2017\Projects\Dynamic Player Count\Dynamic Player Count\obj\Release\Dynamic Player Count.dll
+C:\Users\Kr4ken\documents\visual studio 2017\Projects\Dynamic Player Count\Dynamic Player Count\obj\Release\Dynamic Player Count.pdb
